@@ -1,0 +1,13 @@
+plyer.platforms.win.notification
+
+RickRoll
+Webrowser Control (Link click, scroll,next page, etc.)
+Default Mode (Same file as wake_up and change it to config)
+Change keyword from text mode
+Spell Check
+Background process
+Weather
+Windows Installer (And uninstaller)
+Create Shortcut in Start Menu and Shortcut Key (change)
+Copyright (In properties)
+Commands and Sample Commands
