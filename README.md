@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Yashvardhang/Cynthia">
-    <img src="Icons/Icon.ico" alt="Logo" width="80" height="80">
+    <img src="Icons/Icon.ico" alt="Logo" width="128" height="128">
   </a>
 
   <h3 align="center">Cynthia</h3>
@@ -69,7 +69,8 @@ Completely free, just fork and use! ;)
 ## Contact
 
 <p align="center">
-  <img src="Icons/Spiral Cosmos.ico" alt="Logo" width="80" height="80">
+  <br>
+  <img src="Icons/Spiral Cosmos.png" alt="Logo" width="128" height="128">
 </p>
 Head on to: <a href = "www.spiralcosmos.com">Spiral Cosmos</a>
 
