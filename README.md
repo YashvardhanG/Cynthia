@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Yashvardhang/Cynthia">
-    <img src="Icons/icon.ico" alt="Logo" width="80" height="80">
+    <img src="Icons/Icon.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Cynthia</h3>
