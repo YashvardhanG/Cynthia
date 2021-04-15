@@ -70,7 +70,7 @@ Completely free, just fork and use! ;)
 
 <p align="center">
   <br>
-  <img src="Icons/Spiral Cosmos.png" alt="Logo" width="150" height="128">
+  <img src="Icons/Spiral Cosmos.png" alt="Logo" width="150" height="135"><br>
   <a href = "www.spiralcosmos.com">Spiral Cosmos</a>
 </p>
 
