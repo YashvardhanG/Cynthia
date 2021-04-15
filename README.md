@@ -30,7 +30,8 @@
 <!-- ABOUT -->
 ## About
 
-Cynthia is ..
+Cynthia is an Artificial Intelligent Computer Assistant. It can help you with various kinds of things and reduce your effort of opening and executing things.
+Cynthia can execute basic functions like commencing a countdown, information about the weather, and even perform advanced task such as helping you in taking down notes and read them as well.
 
 <!-- REQUIREMENTS -->
 ## Requirements
@@ -57,13 +58,8 @@ To use this software,
 <!-- LICENSE -->
 ## License
 
-Completely free, just fork and use! ;)
-
 <!-- CONTRIBUTIONS -->
 ## Contributions
-
-**Movie Icon:** <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a><br>
-**Movie Dataset Contribution:** <a href = "https://github.com/MahnoorJaved98/Movie-Recommendation-System/blob/main/movie_dataset.csv">MahnoorJaved98</a>
 
 <!-- CONTACT -->
 ## Contact
