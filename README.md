@@ -34,9 +34,9 @@
 
 Cynthia is an Artificial Intelligent Computer Assistant. It can help you with various kinds of things and reduce your effort of opening and executing things.
 
-Cynthia can execute basic functions like commencing a countdown, information about the weather, and even perform advanced task such as helping you in taking down notes and read them as well. This Assistant works in two modes, <b>Voice</b> and <b>Text</b> based modes. By default it runs in text mode (command prompt). The modes can easily be switched by just writing or speaking, 'change mode' as your command.
+Cynthia can execute basic functions like commencing a countdown, information about the weather, and even perform an advanced task such as helping you in taking down notes and read them as well. This Assistant works in two modes, <b>Voice</b> and <b>Text</b> based modes. By default, it runs in text mode (command prompt). The modes can easily be switched by just writing or speaking, 'change mode' as your command.
 
-The purpose behind building this Computer Assistant is to reduce the effort that is required in performing very menial tasks. With this, you may open stuff in your browser, laptop, and further control it just by typing in a command or simply saying it out loud. The assistant is yet in it's initial stages and hence, the scope of commands and functionalities is limited. You may just fork this project, and recommended and add any sort of functionality which you think might add to the overall performance.
+The purpose behind building this Computer Assistant is to reduce the effort that is required in performing very menial tasks. With this, you may open stuff in your browser, laptop, and further control it just by typing in a command or simply saying it out loud. The assistant is yet in its initial stages and hence, the scope of commands and functionalities is limited. You may just fork this project, and recommended and add any sort of functionality which you think might add to the overall performance.
 
 You may head on the the <a href="#working">Working</a> section to view the working process of the program and, go ahead and head on to the <a href="#developments">Development</a> pane to know the current developement goals with this project.
 
@@ -73,7 +73,7 @@ There a total of 3 programs in this project.
   <li><b>Cynthia:</b><br>Finally, this consists of the text based interface and functionalities.</li><br>
 </ol>
 
-Many functionalities of this project depends on **Internet Connectivity** so, make sure that your device has an active internet connection. The Project further doesn't require anything (except the pre-requisite modules mentioned above obv). For the ease of distinction and developement, the voice and text interfaces have been maintained seperately.
+Many functionalities of this project depend on **Internet Connectivity** so, make sure that your device has an active internet connection. The Project further doesn't require anything (except the pre-requisite modules mentioned above obv). For ease of distinction and development, the voice and text interfaces have been maintained separately.
 <br>
 **Note:** Make sure to pull and keep all these codes into a single directory.
 <br><br>
@@ -81,7 +81,7 @@ As the assistant is used, it further creates more files and functionalities in t
 
 <!-- DEVELOPMENTS -->
 ## Developments
-Since every project is ever evolving, Cynthia also has some planned future functionalities and changes. This section includes the 'future goals' of development in this software. If you feel you can contribute to any of these, feel free to do so! You may also add onto this list and suggest new commands and functionalities which you feel might broden its approach.
+Since every project is ever-evolving, Cynthia also has some planned future functionalities and changes. This section includes the 'future goals' of development in this software. If you feel you can contribute to any of these, feel free to do so! You may also add to this list and suggest new commands and functionalities which you feel might broaden its approach.
 <br><br>
 **Future Goals/Current Developments:**
 <ol>
@@ -96,7 +96,7 @@ Since every project is ever evolving, Cynthia also has some planned future funct
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache License 2.0. See <a href = "https://github.com/YashvardhanG/Cynthia/LICENSE"> LICENSE </a> for more information.
+Distributed under the Apache License 2.0. See <a href = "https://github.com/YashvardhanG/Cynthia/blob/main/LICENSE"> LICENSE </a> for more information.
 
 <!-- contribute -->
 ## Contribute
@@ -125,7 +125,7 @@ Every program is ever evolving and, that is possible only with valuable contribu
 ## Acknowledgements
 
 <ul>
-  <li><a href = "#"></a></li>
+  <li>Cynthia development and Logo <a href = "https://www.spiralcosmos.com">Spiral Cosmos</a></li>
   <li><a href = "#"></a></li>
   <li><a href = "#"></a></li>
 </ul>
