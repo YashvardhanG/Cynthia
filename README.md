@@ -96,6 +96,8 @@ Since every project is ever evolving, Cynthia also has some planned future funct
 <!-- LICENSE -->
 ## License
 
+Distributed under the Apache License 2.0. See LICENSE for more information.
+
 <!-- contribute -->
 ## Contribute
 
