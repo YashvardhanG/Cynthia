@@ -8,7 +8,6 @@
   </a>
 
   <h3 align="center">Cynthia</h3>
-
   <p align="center">
     AI Computer Assistant
   </p>
