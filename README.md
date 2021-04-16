@@ -23,8 +23,9 @@
     <li><a href="#working">Working</a></li>
     <li><a href="#developments">Developments</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contributions">Contributions</a></li>
+    <li><a href="#contribute">Contribute</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgement">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -33,7 +34,7 @@
 
 Cynthia is an Artificial Intelligent Computer Assistant. It can help you with various kinds of things and reduce your effort of opening and executing things.
 
-Cynthia can execute basic functions like commencing a countdown, information about the weather, and even perform advanced task such as helping you in taking down notes and read them as well. This Assistant works in two modes, <bold>Voice</bold> and <bold>Text</bold> based modes. By default it runs in text mode (command prompt). The modes can easily be switched by just writing or speaking, 'change mode' as your command.
+Cynthia can execute basic functions like commencing a countdown, information about the weather, and even perform advanced task such as helping you in taking down notes and read them as well. This Assistant works in two modes, <b>Voice</b> and <b>Text</b> based modes. By default it runs in text mode (command prompt). The modes can easily be switched by just writing or speaking, 'change mode' as your command.
 
 The purpose behind building this Computer Assistant is to reduce the effort that is required in performing very menial tasks. With this, you may open stuff in your browser, laptop, and further control it just by typing in a command or simply saying it out loud. The assistant is yet in it's initial stages and hence, the scope of commands and functionalities is limited. You may just fork this project, and recommended and add any sort of functionality which you think might add to the overall performance.
 
@@ -44,33 +45,68 @@ It has been completely developed using Python programming language, and hence, r
 <!-- REQUIREMENTS -->
 ## Requirements
 
+To install all the required Python Modules, Pull the project, Open Command Prompt, and then type the following command:
+
+```
+ > pip install -r requirements.txt
+```
+
+**Note:** Make sure to change the directory to the directory where the project has been stored. 
+
+You may also download all of them individually using the statements below.<br>
 List of Pre-Requisite Python Modules:
 
- > pip install pandas <br>
- > pip install sklearn <br>
- > pip install scikit-learn <br>
+```
+ > pip install pandas
+ > pip install sklearn
+ > pip install scikit-learn
+```
 
 <!-- WORKING -->
 ## Working
 
-This Movie Recommendation system picks up a random movie from the dataset and suggests 10 similar movies according to the genre, director, title and more.
-This project was completely made using Sklearn and Python.
-
-To use this software, 
-
+There a total of 3 programs in this project.
 <ol>
-  <li>First, Unzip the dataset and keep the python file and dataset in the same directory.</li>
-  <li>Open Python IDLE, and execute.</li>
+  <li><b>Main:</b><br>This is the main driver code and detects wether the mode has been set to the text mode or voice mode. If no mode is prescribed, the automatically   takes it as text based mode.</li><br>
+  <li><b>Voice:</b><br>This consists of the voice functionalities and the entire voice based interface.</li><br>
+  <li><b>Cynthia:</b><br>Finally, this consists of the text based interface and functionalities.</li><br>
 </ol>
+
+Many functionalities of this project depends on **Internet Connectivity** so, make sure that your device has an active internet connection. The Project further doesn't require anything (except the pre-requisite modules mentioned above obv). For the ease of distinction and developement, the voice and text interfaces have been maintained seperately.
+<br>
+**Note:** Make sure to pull and keep all these codes into a single directory.
+<br><br>
+As the assistant is used, it further creates more files and functionalities in the same directory along the way. Head on to the <a href="#developements">next</a> section to view the current goals and developments proposed in this project.
 
 <!-- DEVELOPMENTS -->
 ## Developments
+Since every project is ever evolving, Cynthia also has some planned future functionalities and changes. This section includes the 'future goals' of development in this software. If you feel you can contribute to any of these, feel free to do so! You may also add onto this list and suggest new commands and functionalities which you feel might broden its approach.
+<br><br>
+**Future Goals/Current Developments:**
+<ol>
+  <li>Cross-Platform Compatibility</li>
+  <li>Increasing functionalities in Web Browser control</li>
+  <li>Add an UI interface</li>
+  <li></li>
+</ol>
+**Go ahead and add on!**
 
 <!-- LICENSE -->
 ## License
 
-<!-- CONTRIBUTIONS -->
-## Contributions
+<!-- contribute -->
+## Contribute
+
+Every program is ever evolving and, that is possible only with valuable contributions. Any contributions you make are greatly appreciated. 
+<ol>
+  <li>Fork the Project</li>
+  <li>Create your Feature Branch (git checkout -b functionalities/Feature)</li>
+  <li>Commit your Changes (git commit -m 'Add a Feature')</li>
+  <li>Push to the Branch (git push origin functionalities/Feature)</li>
+  <li>Open a Pull Request</li>
+</ol>
+
+<br>If you have any further ideas or comments, go ahead to the next section and feel free to connect! 
 
 <!-- CONTACT -->
 ## Contact
@@ -80,4 +116,13 @@ To use this software,
   <img src="https://github.com/YashvardhanG/YashvardhanG/blob/main/Spiral%20Cosmos.png" alt="Logo" width="155" height="140"><br><br>
   <a href = "https://www.spiralcosmos.com">Spiral Cosmos</a>
 </p>
+
+<!-- Acknowledgement -->
+## Acknowledgement
+
+<ul>
+  <li><a href = "#"></a></li>
+  <li><a href = "#"></a></li>
+  <li><a href = "#"></a></li>
+</ul>
 
