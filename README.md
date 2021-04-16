@@ -96,7 +96,7 @@ Since every project is ever evolving, Cynthia also has some planned future funct
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache License 2.0. See LICENSE for more information.
+Distributed under the Apache License 2.0. See <a href = "https://github.com/YashvardhanG/Cynthia/LICENSE" LICENSE </a> for more information.
 
 <!-- contribute -->
 ## Contribute
