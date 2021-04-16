@@ -53,7 +53,8 @@ To install all the required Python Modules, Pull the project, Open Command Promp
 
 **Note:** Make sure to change the directory to the directory where the project has been stored. 
 
-You may also download all of them individually using the statements below.<br>
+You may also download all of them individually using the statements below.
+
 List of Pre-Requisite Python Modules:
 
 ```
@@ -89,6 +90,7 @@ Since every project is ever evolving, Cynthia also has some planned future funct
   <li>Add an UI interface</li>
   <li></li>
 </ol>
+
 **Go ahead and add on!**
 
 <!-- LICENSE -->
@@ -118,7 +120,7 @@ Every program is ever evolving and, that is possible only with valuable contribu
 </p>
 
 <!-- Acknowledgement -->
-## Acknowledgement
+## Acknowledgements
 
 <ul>
   <li><a href = "#"></a></li>
