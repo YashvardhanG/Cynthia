@@ -66,7 +66,7 @@ To use this software,
 
 <p align="center">
   <br>
-  <img src="Icons/Spiral Cosmos.png" alt="Logo" width="150" height="140"><br><bt>
-  <a href = "www.spiralcosmos.com">Spiral Cosmos</a>
+  <img src="Icons/Spiral Cosmos.png" alt="Logo" width="150" height="140"><br><br>
+  <a href = "https://github.com/YashvardhanG/YashvardhanG/blob/main/Spiral%20Cosmos.png">Spiral Cosmos</a>
 </p>
 
