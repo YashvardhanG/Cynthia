@@ -58,9 +58,18 @@ You may also download all of them individually using the statements below.
 List of Pre-Requisite Python Modules:
 
 ```
- > pip install pandas
- > pip install sklearn
- > pip install scikit-learn
+ > pip install PyDictionary
+ > pip install psutil
+ > pip install plyer
+ > pip install PyAudio
+ > pip install sounddevice
+ > pip install scipy
+ > pip install playsound
+ > pip install requests
+ > pip install weather-forecast
+ > pip install gTTS
+ > pip install SpeechRecognition
+ > pip install translate
 ```
 
 <!-- WORKING -->
@@ -125,8 +134,6 @@ Every program is ever evolving and, that is possible only with valuable contribu
 ## Acknowledgements
 
 <ul>
-  <li>Cynthia development and Logo <a href = "https://www.spiralcosmos.com">Spiral Cosmos</a></li>
-  <li><a href = "#"></a></li>
-  <li><a href = "#"></a></li>
+  <li>Cynthia development and Logo: <a href = "https://www.spiralcosmos.com">Spiral Cosmos</a></li>
 </ul>
 
