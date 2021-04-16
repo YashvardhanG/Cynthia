@@ -25,7 +25,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contribute">Contribute</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgement">Acknowledgements</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
