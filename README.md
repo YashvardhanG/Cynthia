@@ -128,11 +128,3 @@ Every program is ever evolving and, that is possible only with valuable contribu
   <img src="https://github.com/YashvardhanG/YashvardhanG/blob/main/Wolf_1.jpg" alt="Logo" width="150" height="150"><br>
   <a href = "https://www.yashvardhang.dev">Connect with me here! ✉️</a>
 </p>
-
-<!-- Acknowledgement -->
-## Acknowledgements
-
-<ul>
-  <li>Cynthia development and Logo: <a href = "https://www.spiralcosmos.com">Spiral Cosmos</a></li>
-</ul>
-
